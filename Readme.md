@@ -37,7 +37,7 @@ git clone https://github.com/YourUsername/GreenEats.git
 
 ---
 ## Web Link :
-![Click Her](https://lechehebdjaafar.github.io/GreenEats/)
+**GreenEats**: [Web](https://lechehebdjaafar.github.io/GreenEats/)
 ## Screenshots 🖼️
 ### Home Page:
 ![Home Page](GreenEats.png)
